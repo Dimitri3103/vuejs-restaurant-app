@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Simon",
+      "email": "simon@gmail.com",
+      "password": "12345"
+    },
+    {
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "password": "123457",
+      "id": 2
+    },
+    {
+      "name": "Dimitri",
+      "email": "dimitrinsd@gmail.com",
+      "password": "dimitri31",
+      "id": 3
+    },
+    {
+      "name": "Simon2",
+      "email": "simon2@gmail.com",
+      "password": "simon123",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "KFC",
+      "contact": "1111111",
+      "address": "Tunis",
+      "id": 1
+    },
+    {
+      "name": "Burger King",
+      "contact": "2222222",
+      "address": "Sousse",
+      "id": 2
+    },
+    {
+      "name": "Pizza Hut",
+      "contact": "3333333",
+      "address": "Sfax",
+      "id": 3
+    },
+    {
+      "name": "SFC",
+      "contact": "44444444",
+      "address": "Tunis",
+      "id": 4
+    },
+    {
+      "name": "Mac Do",
+      "contact": "555555",
+      "address": "Paris",
+      "id": 5
+    }
+  ]
+}
